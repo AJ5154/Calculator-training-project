@@ -1,0 +1,14 @@
+.container {
+  border: 2px solid black;
+  border-radius: 10px;
+  margin: 180px 0px;
+  height: auto;
+}
+.btn-outline-success {
+  margin: 5px 22px;
+  width: 70px;
+}
+.cols {
+  display: inline;
+  width: 87px;
+}
